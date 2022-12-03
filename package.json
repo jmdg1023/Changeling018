@@ -20,6 +20,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
+    "mongoose": "^6.7.5",
     "mongose": "^0.0.2-security"
   }
 }
